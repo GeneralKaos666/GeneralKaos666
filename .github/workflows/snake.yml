@@ -23,7 +23,7 @@ jobs:
     steps:
       # Step 1: Checkout repository
       - name: Checkout Repository
-        uses: actions/checkout@v8
+        uses: actions/checkout@v6
 
       # Step 2: Generate the snake SVG images from GitHub contribution grid
       - name: Generate Snake SVG
