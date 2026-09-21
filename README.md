@@ -51,6 +51,12 @@
 
 ### 📈 Activity & Contributions
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/GeneralKaos666/GeneralKaos666/output/github-contribution-grid-snake.svg)
+### Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/bd-loser/bd-loser/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+
+*Powered by [github-contribution-grid-snake](https://github.com/Platane/snk)*
 
 </div>
