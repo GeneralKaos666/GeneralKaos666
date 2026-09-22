@@ -29,8 +29,12 @@
 ### 📊 GitHub Activity Statistics
 
 <p align="center">
-  <img src="[![GeneralKaos666's GitHub stats](https://github-stats-extended.vercel.app/api?username=GeneralKaos666)](https://github.com/stats-organization/github-stats-extended)" alt="GitHub Stats" width="48%" />
-  <img src="[![GeneralKaos666's GitHub stats](https://github-stats-extended.vercel.app/api?username=GeneralKaos666)](https://github.com/stats-organization/github-stats-extended)" alt="Top Languages" width="48%" />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=GeneralKaos666&show_icons=true&theme=synthwave&hide_border=true&rank_icon=github" alt="GeneralKaos666's GitHub stats" width="48%" />
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=GeneralKaos666&layout=compact&theme=synthwave&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+  </a>
 </p>
 
 <p align="center">
@@ -55,7 +59,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/bd-loser/bd-loser/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/GeneralKaos666/GeneralKaos666/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 *Powered by [github-contribution-grid-snake](https://github.com/Platane/snk)*
 
