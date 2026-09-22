@@ -29,8 +29,8 @@
 ### 📊 GitHub Activity Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GeneralKaos666&show_icons=true&theme=synthwave&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeneralKaos666&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="[![GeneralKaos666's GitHub stats](https://github-stats-extended.vercel.app/api?username=GeneralKaos666)](https://github.com/stats-organization/github-stats-extended)" alt="GitHub Stats" width="48%" />
+  <img src="[![GeneralKaos666's GitHub stats](https://github-stats-extended.vercel.app/api?username=GeneralKaos666)](https://github.com/stats-organization/github-stats-extended)" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
