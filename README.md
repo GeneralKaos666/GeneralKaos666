@@ -81,7 +81,7 @@ up since 2024 · 42 public repos · still shipping
 
 - 🎨 **[silkcircuit](https://github.com/GeneralKaos666/silkcircuit)** — expanding the cyberpunk color system for Neovim
 - 🪟 **[klassy-for-termux](https://github.com/GeneralKaos666/klassy-for-termux)** — KDE Plasma theming on Android
-- 🚇 **[pdx-bus-tracker](https://github.com/GeneralKaos666/pdx-bus-tracker)** & **[Wear-PDX](https://github.com/GeneralKaos666/Wear-PDX)** — Portland TriMet tracking for phone & Wear OS
+- 🚇 **[pdx-bus-tracker](https://github.com/GeneralKaos666/pdx-bus-tracker)** — Portland TriMet tracking for Android
 - 📦 **[termux-adb](https://github.com/GeneralKaos666/termux-adb)** / **[opencode-termux](https://github.com/GeneralKaos666/opencode-termux)** — root-free Termux tooling and native builds
 
 ---
