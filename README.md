@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/STATUS-BUILDING-39FF14?style=for-the-badge&logo=statuspage&logoColor=black" alt="Status: building" />
 </p>
 
-> ⚡ **Kotlin & Compose on Android, neon on the desktop, everything wired through the terminal.**
+> **Kotlin and Compose on Android. Plasma theming from the same keyboard.**
 
 ---
 
@@ -24,21 +24,21 @@ Ron Sloan  ·  GeneralKaos666
 
 ┌──(kaos㉿termux)-[~]
 └─$ cat ~/profile.sh
-> build : Android apps · Kotlin + Jetpack Compose + Material 3
-> theme : KDE Plasma · Aero / Vista / Klassy
+> build : Android apps · Kotlin + Jetpack Compose
+> theme : KDE Plasma · Aero / Vista
 > shell : Zsh + Zinit + Termux
-> creed : open source, no root required
+> rule : no root
 
 ┌──(kaos㉿termux)-[~]
 └─$ uptime
-up since 2024 · 43 public repos · still shipping
+up since 2024 · 42 public repos · no releases yet
 ```
 
 ---
 
 ### `02 // TECH_STACK`
 
-#### ⚔️ Android & Mobile
+#### `// ANDROID_MOBILE`
 ![Kotlin](https://img.shields.io/badge/Kotlin-BF00FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-00FFFF?style=for-the-badge&logo=jetpackcompose&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-39FF14?style=for-the-badge&logo=flutter&logoColor=black)
@@ -47,20 +47,20 @@ up since 2024 · 43 public repos · still shipping
 ![Gradle](https://img.shields.io/badge/Gradle-00FFFF?style=for-the-badge&logo=gradle&logoColor=black)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-BF00FF?style=for-the-badge&logo=androidstudio&logoColor=white)
 
-#### 🧠 Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00FFFF?style=for-the-badge&logo=c%2B%2B&logoColor=black)
+#### `// LANGUAGES`
+![C++](https://img.shields.io/badge/C%2B%2B-00FFFF?style=for-the-badge&logo=cplusplus&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-BF00FF?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-39FF14?style=for-the-badge&logo=go&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-00FFFF?style=for-the-badge&logo=python&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-BF00FF?style=for-the-badge&logo=typescript&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-00FFFF?style=for-the-badge&logo=lua&logoColor=black)
-![Zsh](https://img.shields.io/badge/Zsh-BF00FF?style=for-the-badge&logo=gnubash&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-BF00FF?style=for-the-badge&logo=zsh&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-39FF14?style=for-the-badge&logo=git&logoColor=black)
 
-#### 🔧 Tools & Platforms
+#### `// TOOLS_PLATFORMS`
 ![Neovim](https://img.shields.io/badge/Neovim-39FF14?style=for-the-badge&logo=neovim&logoColor=black)
 ![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-00FFFF?style=for-the-badge&logo=kde&logoColor=black)
-![Termux](https://img.shields.io/badge/Termux-BF00FF?style=for-the-badge&logo=linux&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-BF00FF?style=for-the-badge&logo=android&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-00FFFF?style=for-the-badge&logo=linux&logoColor=black)
 ![CMake](https://img.shields.io/badge/CMake-39FF14?style=for-the-badge&logo=cmake&logoColor=black)
 ![Qt](https://img.shields.io/badge/Qt-BF00FF?style=for-the-badge&logo=qt&logoColor=white)
@@ -71,27 +71,27 @@ up since 2024 · 43 public repos · still shipping
 
 | # | Project | What it does | Stack | Stars |
 | :-: | :--- | :--- | :---: | :---: |
-| 1 | 🚀 **[flutter-for-termux](https://github.com/GeneralKaos666/flutter-for-termux)** | Run Flutter on Termux | Shell | ![stars](https://img.shields.io/github/stars/GeneralKaos666/flutter-for-termux?style=flat-square) |
-| 2 | 🧰 **[androidstudio-for-termux](https://github.com/GeneralKaos666/androidstudio-for-termux)** | On-device Android Studio tooling for Termux | Shell | ![stars](https://img.shields.io/github/stars/GeneralKaos666/androidstudio-for-termux?style=flat-square) |
-| 3 | ✏️ **[SetEditPlus](https://github.com/GeneralKaos666/SetEditPlus)** | Clean, fast, and current SetEdit implementation | Kotlin | ![stars](https://img.shields.io/github/stars/GeneralKaos666/SetEditPlus?style=flat-square) |
-| 4 | 🤖 **[OmniRoute](https://github.com/GeneralKaos666/OmniRoute)** | Free AI gateway — 160+ providers, MCP/A2A, token saver | TypeScript | ![stars](https://img.shields.io/github/stars/GeneralKaos666/OmniRoute?style=flat-square) |
-| 5 | 📥 **[VidSync](https://github.com/GeneralKaos666/VidSync)** | Download videos from any link! | Kotlin | ![stars](https://img.shields.io/github/stars/GeneralKaos666/VidSync?style=flat-square) |
-| 6 | 🚌 **[pdx-bus-tracker](https://github.com/GeneralKaos666/pdx-bus-tracker)** | Portland TriMet tracking in an Android app | Kotlin | ![stars](https://img.shields.io/github/stars/GeneralKaos666/pdx-bus-tracker?style=flat-square) |
-| 7 | 👻 **[ghost-rain](https://github.com/GeneralKaos666/ghost-rain)** | Matrix-style live wallpaper + system HUD for Android | Kotlin | ![stars](https://img.shields.io/github/stars/GeneralKaos666/ghost-rain?style=flat-square) |
-| 8 | 📡 **[termux-adb](https://github.com/GeneralKaos666/termux-adb)** | ADB & Fastboot on Termux — no root, self-contained, wireless | Shell | ![stars](https://img.shields.io/github/stars/GeneralKaos666/termux-adb?style=flat-square) |
+| 1 | **[flutter-for-termux](https://github.com/GeneralKaos666/flutter-for-termux)** | Run Flutter on Termux | Shell | ![stars](https://img.shields.io/github/stars/GeneralKaos666/flutter-for-termux?style=flat-square) |
+| 2 | **[androidstudio-for-termux](https://github.com/GeneralKaos666/androidstudio-for-termux)** | On-device Android Studio tooling for Termux | Shell | ![stars](https://img.shields.io/github/stars/GeneralKaos666/androidstudio-for-termux?style=flat-square) |
+| 3 | **[SetEditPlus](https://github.com/GeneralKaos666/SetEditPlus)** | SetEdit, current and buildable | Kotlin | ![stars](https://img.shields.io/github/stars/GeneralKaos666/SetEditPlus?style=flat-square) |
+| 4 | **[OmniRoute](https://github.com/GeneralKaos666/OmniRoute)** | Free AI gateway over 160+ providers, MCP and A2A | TypeScript | ![stars](https://img.shields.io/github/stars/GeneralKaos666/OmniRoute?style=flat-square) |
+| 5 | **[VidSync](https://github.com/GeneralKaos666/VidSync)** | Downloads video from a link | Kotlin | ![stars](https://img.shields.io/github/stars/GeneralKaos666/VidSync?style=flat-square) |
+| 6 | **[pdx-bus-tracker](https://github.com/GeneralKaos666/pdx-bus-tracker)** | TriMet arrivals on Android | Kotlin | ![stars](https://img.shields.io/github/stars/GeneralKaos666/pdx-bus-tracker?style=flat-square) |
+| 7 | **[ghost-rain](https://github.com/GeneralKaos666/ghost-rain)** | Matrix rain wallpaper with a system HUD | Kotlin | ![stars](https://img.shields.io/github/stars/GeneralKaos666/ghost-rain?style=flat-square) |
+| 8 | **[termux-adb](https://github.com/GeneralKaos666/termux-adb)** | ADB and Fastboot on Termux, no root | Shell | ![stars](https://img.shields.io/github/stars/GeneralKaos666/termux-adb?style=flat-square) |
 
 ---
 
 ### `04 // CURRENTLY_WORKING_ON`
 
 <!-- WORKING_ON:START -->
-- 🚇 **[pdx-bus-tracker](https://github.com/GeneralKaos666/pdx-bus-tracker)** — Portland TriMet tracking for Android ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/pdx-bus-tracker?style=flat-square&label=updated)
-- 📦 **[prerelease-flutter-for-termux](https://github.com/GeneralKaos666/prerelease-flutter-for-termux)** — Flutter on Termux, prerelease channel ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/prerelease-flutter-for-termux?style=flat-square&label=updated)
-- 👻 **[ghost-rain](https://github.com/GeneralKaos666/ghost-rain)** — matrix-style live wallpaper + system HUD for Android ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/ghost-rain?style=flat-square&label=updated)
-- 🎨 **[color-changer-termux](https://github.com/GeneralKaos666/color-changer-termux)** — color tools for Termux ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/color-changer-termux?style=flat-square&label=updated)
-- 🖥️ **[aerothemeplasma](https://github.com/GeneralKaos666/aerothemeplasma)** — alternative KDE Plasma shell recreating the Aero & Vista look ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/aerothemeplasma?style=flat-square&label=updated)
+- **[pdx-bus-tracker](https://github.com/GeneralKaos666/pdx-bus-tracker)** : TriMet arrivals, rebuilt on Compose ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/pdx-bus-tracker?style=flat-square&label=updated)
+- **[prerelease-flutter-for-termux](https://github.com/GeneralKaos666/prerelease-flutter-for-termux)** : Flutter on Termux, prerelease channel ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/prerelease-flutter-for-termux?style=flat-square&label=updated)
+- **[ghost-rain](https://github.com/GeneralKaos666/ghost-rain)** : Matrix rain wallpaper with a system HUD ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/ghost-rain?style=flat-square&label=updated)
+- **[color-changer-termux](https://github.com/GeneralKaos666/color-changer-termux)** : color tools for Termux ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/color-changer-termux?style=flat-square&label=updated)
+- **[aerothemeplasma](https://github.com/GeneralKaos666/aerothemeplasma)** : KDE Plasma shell that recreates the Aero and Vista look ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/aerothemeplasma?style=flat-square&label=updated)
 <!-- WORKING_ON:END -->
-<sub>badges update live · curation stays manual</sub>
+<sub>badges pull live, the list is hand-picked</sub>
 
 ---
 
@@ -118,8 +118,8 @@ up since 2024 · 43 public repos · still shipping
   <img src="https://raw.githubusercontent.com/GeneralKaos666/GeneralKaos666/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
 </p>
 
-<p align="center"><sub>Cyber-grid powered by <a href="https://github.com/Platane/snk">Platane/snk</a></sub></p>
+<p align="center"><sub>Grid from <a href="https://github.com/Platane/snk">Platane/snk</a></sub></p>
 
 ---
 
-<p align="center"><sub>⚡ <code>while (!done) { build(); }</code> — thanks for stopping by</sub></p>
+<p align="center"><sub><code>while (!done) { build(); }</code></sub></p>
