@@ -86,7 +86,7 @@ up since 2024 · 43 public repos · still shipping
 
 <!-- WORKING_ON:START -->
 - 🚇 **[pdx-bus-tracker](https://github.com/GeneralKaos666/pdx-bus-tracker)** — Portland TriMet tracking for Android ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/pdx-bus-tracker?style=flat-square&label=updated)
-- 📦 **[opencode-termux](https://github.com/GeneralKaos666/opencode-termux)** — native builds for Termux ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/opencode-termux?style=flat-square&label=updated)
+- 📦 **[prerelease-flutter-for-termux](https://github.com/GeneralKaos666/prerelease-flutter-for-termux)** — Flutter on Termux, prerelease channel ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/prerelease-flutter-for-termux?style=flat-square&label=updated)
 - 👻 **[ghost-rain](https://github.com/GeneralKaos666/ghost-rain)** — matrix-style live wallpaper + system HUD for Android ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/ghost-rain?style=flat-square&label=updated)
 - 🎨 **[color-changer-termux](https://github.com/GeneralKaos666/color-changer-termux)** — color tools for Termux ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/color-changer-termux?style=flat-square&label=updated)
 - 🖥️ **[aerothemeplasma](https://github.com/GeneralKaos666/aerothemeplasma)** — alternative KDE Plasma shell recreating the Aero & Vista look ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/aerothemeplasma?style=flat-square&label=updated)
