@@ -85,10 +85,11 @@ up since 2024 · 43 public repos · still shipping
 ### `04 // CURRENTLY_WORKING_ON`
 
 <!-- WORKING_ON:START -->
-- 🎨 **[silkcircuit](https://github.com/GeneralKaos666/silkcircuit)** — expanding the cyberpunk color system for Neovim ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/silkcircuit?style=flat-square&label=updated)
-- 🪟 **[klassy-for-termux](https://github.com/GeneralKaos666/klassy-for-termux)** — KDE Plasma theming on Android ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/klassy-for-termux?style=flat-square&label=updated)
 - 🚇 **[pdx-bus-tracker](https://github.com/GeneralKaos666/pdx-bus-tracker)** — Portland TriMet tracking for Android ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/pdx-bus-tracker?style=flat-square&label=updated)
-- 📦 **[termux-adb](https://github.com/GeneralKaos666/termux-adb)** / **[opencode-termux](https://github.com/GeneralKaos666/opencode-termux)** — root-free Termux tooling and native builds ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-adb?style=flat-square&label=adb) ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/opencode-termux?style=flat-square&label=opencode)
+- 📦 **[opencode-termux](https://github.com/GeneralKaos666/opencode-termux)** — native builds for Termux ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/opencode-termux?style=flat-square&label=updated)
+- 👻 **[ghost-rain](https://github.com/GeneralKaos666/ghost-rain)** — matrix-style live wallpaper + system HUD for Android ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/ghost-rain?style=flat-square&label=updated)
+- 🎨 **[color-changer-termux](https://github.com/GeneralKaos666/color-changer-termux)** — color tools for Termux ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/color-changer-termux?style=flat-square&label=updated)
+- 🖥️ **[termux-aerothemeplasma](https://github.com/GeneralKaos666/termux-aerothemeplasma)** — Aero/Vista shell for KDE Plasma on Termux ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-aerothemeplasma?style=flat-square&label=updated)
 <!-- WORKING_ON:END -->
 <sub>badges update live · curation stays manual</sub>
 
