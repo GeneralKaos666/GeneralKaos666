@@ -1,0 +1,93 @@
+name: Update Repo Count
+
+on:
+  schedule:
+    # 04:23 UTC daily. Off the hour so this does not pile onto the
+    # same Actions tick as the snake workflow.
+    - cron: "23 4 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+    paths:
+      - README.md
+      - .github/workflows/repo-count.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repo-count
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v6
+
+      - name: Read public repo count
+        id: count
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          count=$(gh api "users/${{ github.repository_owner }}" --jq '.public_repos')
+          case "$count" in
+            ''|*[!0-9]*) echo "unexpected count: '$count'"; exit 1 ;;
+          esac
+          echo "count=$count" >> "$GITHUB_OUTPUT"
+          echo "public_repos=$count"
+
+      # The count lives inside a ```console fence, so a shields.io badge
+      # cannot render it. The workflow rewrites the number in place
+      # instead. "up since 2024 . 42 public repos" is the only line in
+      # the file matching " public repos", and the grep guard below
+      # fails the job if that ever stops being true.
+      - name: Rewrite the count
+        env:
+          COUNT: ${{ steps.count.outputs.count }}
+        run: |
+          set -euo pipefail
+
+          if [ "$(grep -c ' public repos' README.md)" -ne 1 ]; then
+            echo "expected exactly one ' public repos' line in README.md"
+            grep -n ' public repos' README.md || true
+            exit 1
+          fi
+
+          cp README.md README.md.bak
+          # Match the digits directly before " public repos" on the uptime
+          # line. The separator is a multibyte middle dot, so the pattern
+          # stays ASCII-only and behaves the same under any locale.
+          sed -i -E "/^up since [0-9]{4}/ s/[0-9]+( public repos)/${COUNT}\\1/" README.md
+
+          # Read the digits straight off the line instead of matching across
+          # the middle dot. A "." in the pattern does not cross it reliably
+          # across locales, so every pattern here stays ASCII and literal.
+          got=$(grep -o '[0-9]\+ public repos' README.md | head -1 | cut -d' ' -f1)
+          if [ "$got" != "$COUNT" ]; then
+            echo "rewrite did not take, restoring README.md from backup"
+            mv README.md.bak README.md
+            exit 1
+          fi
+          diff -u README.md.bak README.md || true
+          rm README.md.bak
+
+      - name: Commit if changed
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- README.md; then
+            echo "count already ${{ steps.count.outputs.count }}, nothing to commit"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "docs: refresh public repo count to ${{ steps.count.outputs.count }}"
+          git push
