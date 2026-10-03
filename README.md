@@ -31,7 +31,7 @@ Ron Sloan  ·  GeneralKaos666
 
 ┌──(kaos㉿termux)-[~]
 └─$ uptime
-up since 2024 · 42 public repos · no releases yet
+up since 2024 · 43 public repos · no releases yet
 ```
 
 ---
@@ -86,7 +86,7 @@ up since 2024 · 42 public repos · no releases yet
 
 <!-- WORKING_ON:START -->
 - **[pdx-bus-tracker](https://github.com/GeneralKaos666/pdx-bus-tracker)** : TriMet arrivals, rebuilt on Compose ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/pdx-bus-tracker?style=flat-square&label=updated)
-- **[prerelease-flutter-for-termux](https://github.com/GeneralKaos666/prerelease-flutter-for-termux)** : Flutter on Termux, prerelease channel ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/prerelease-flutter-for-termux?style=flat-square&label=updated)
+- **[flutter-channel-main-for-termux](https://github.com/GeneralKaos666/flutter-channel-main-for-termux)** : Flutter on Termux, channel main ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/flutter-channel-main-for-termux?style=flat-square&label=updated)
 - **[ghost-rain](https://github.com/GeneralKaos666/ghost-rain)** : Matrix rain wallpaper with a system HUD ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/ghost-rain?style=flat-square&label=updated)
 - **[color-changer-termux](https://github.com/GeneralKaos666/color-changer-termux)** : color tools for Termux ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/color-changer-termux?style=flat-square&label=updated)
 - **[aerothemeplasma](https://github.com/GeneralKaos666/aerothemeplasma)** : KDE Plasma shell that recreates the Aero and Vista look ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/aerothemeplasma?style=flat-square&label=updated)

@@ -2,9 +2,9 @@ name: Update Repo Count
 
 on:
   schedule:
-    # 04:23 UTC daily. Off the hour so this does not pile onto the
+    # 23 past every 6th hour. Off the hour so this does not pile onto the
     # same Actions tick as the snake workflow.
-    - cron: "23 4 * * *"
+    - cron: "23 */6 * * *"
 
   workflow_dispatch:
 
