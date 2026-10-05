@@ -8,10 +8,13 @@ on:
   # Allows manually running the action from the Actions tab
   workflow_dispatch:
   
-  # Run on every push to main branch
+  # Run on every push to main branch, except README-only count refreshes
+  # (those carry [skip ci] and would otherwise waste a snake run).
   push:
     branches:
       - main
+    paths-ignore:
+      - README.md
 
 jobs:
   generate:
@@ -23,7 +26,7 @@ jobs:
     steps:
       # Step 1: Checkout repository
       - name: Checkout Repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
 
       # Step 2: Generate the snake SVG images from GitHub contribution grid
       - name: Generate Snake SVG
@@ -40,7 +43,7 @@ jobs:
 
       # Step 4: Deploy generated SVG files to the output branch
       - name: Deploy Snake SVG to Output Branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist

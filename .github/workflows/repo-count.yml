@@ -29,7 +29,7 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
 
       - name: Read public repo count
         id: count
@@ -46,9 +46,9 @@ jobs:
 
       # The count lives inside a ```console fence, so a shields.io badge
       # cannot render it. The workflow rewrites the number in place
-      # instead. "up since 2024 . 42 public repos" is the only line in
-      # the file matching " public repos", and the grep guard below
-      # fails the job if that ever stops being true.
+      # instead. The uptime line containing " public repos" is the only
+      # line in the file matching " public repos", and the grep guard
+      # below fails the job if that ever stops being true.
       - name: Rewrite the count
         env:
           COUNT: ${{ steps.count.outputs.count }}
@@ -89,5 +89,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "docs: refresh public repo count to ${{ steps.count.outputs.count }}"
+          git commit -m "docs: refresh public repo count to ${{ steps.count.outputs.count }} [skip ci]"
           git push

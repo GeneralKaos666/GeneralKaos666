@@ -6,8 +6,6 @@
 
 <p align="center">
   <a href="https://github.com/GeneralKaos666?tab=followers"><img src="https://img.shields.io/github/followers/GeneralKaos666?color=00FFFF&label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=black" alt="GitHub followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=GeneralKaos666&color=BF00FF&style=for-the-badge&label=VISITORS" alt="Profile views" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FGeneralKaos666&query=public_repos&label=REPOS&style=for-the-badge&color=39FF14&labelColor=0D1117" alt="Public repos" />
   <img src="https://img.shields.io/badge/STATUS-BUILDING-39FF14?style=for-the-badge&logo=statuspage&logoColor=black" alt="Status: building" />
 </p>
 
@@ -31,7 +29,7 @@ Ron Sloan  ·  GeneralKaos666
 
 ┌──(kaos㉿termux)-[~]
 └─$ uptime
-up since 2024 · 44 public repos · no releases yet
+up since 2024 · 45 public repos
 ```
 
 ---
@@ -71,14 +69,14 @@ up since 2024 · 44 public repos · no releases yet
 
 | # | Project | What it does | Stack | Stars |
 | :-: | :--- | :--- | :---: | :---: |
-| 1 | **[flutter-for-termux](https://github.com/GeneralKaos666/flutter-for-termux)** | Run Flutter on Termux | Shell | ![stars](https://img.shields.io/github/stars/GeneralKaos666/flutter-for-termux?style=flat-square) |
+| 1 | **[flutter-for-termux](https://github.com/GeneralKaos666/flutter-for-termux)** | Run Flutter on Termux · fork of [yamsergey/yamsergey.termux.flutter](https://github.com/yamsergey/yamsergey.termux.flutter) | Shell | ![stars](https://img.shields.io/github/stars/GeneralKaos666/flutter-for-termux?style=flat-square) |
 | 2 | **[androidstudio-for-termux](https://github.com/GeneralKaos666/androidstudio-for-termux)** | On-device Android Studio tooling for Termux | Shell | ![stars](https://img.shields.io/github/stars/GeneralKaos666/androidstudio-for-termux?style=flat-square) |
-| 3 | **[SetEditPlus](https://github.com/GeneralKaos666/SetEditPlus)** | SetEdit, current and buildable | Kotlin | ![stars](https://img.shields.io/github/stars/GeneralKaos666/SetEditPlus?style=flat-square) |
-| 4 | **[OmniRoute](https://github.com/GeneralKaos666/OmniRoute)** | Free AI gateway over 160+ providers, MCP and A2A | TypeScript | ![stars](https://img.shields.io/github/stars/GeneralKaos666/OmniRoute?style=flat-square) |
-| 5 | **[VidSync](https://github.com/GeneralKaos666/VidSync)** | Downloads video from a link | Kotlin | ![stars](https://img.shields.io/github/stars/GeneralKaos666/VidSync?style=flat-square) |
+| 3 | **[SetEditPlus](https://github.com/GeneralKaos666/SetEditPlus)** | SetEdit, current and buildable · fork of [kerneldroid/SetEditPlus](https://github.com/kerneldroid/SetEditPlus) | Kotlin | ![stars](https://img.shields.io/github/stars/GeneralKaos666/SetEditPlus?style=flat-square) |
+| 4 | **[OmniRoute](https://github.com/GeneralKaos666/OmniRoute)** | Free AI gateway over 160+ providers, MCP and A2A · fork of [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | TypeScript | ![stars](https://img.shields.io/github/stars/GeneralKaos666/OmniRoute?style=flat-square) |
+| 5 | **[VidSync](https://github.com/GeneralKaos666/VidSync)** | Downloads video from a link · fork of [itsvks19/VidSync](https://github.com/itsvks19/VidSync) | Kotlin | ![stars](https://img.shields.io/github/stars/GeneralKaos666/VidSync?style=flat-square) |
 | 6 | **[pdx-bus-tracker](https://github.com/GeneralKaos666/pdx-bus-tracker)** | TriMet arrivals on Android | Kotlin | ![stars](https://img.shields.io/github/stars/GeneralKaos666/pdx-bus-tracker?style=flat-square) |
 | 7 | **[ghost-rain](https://github.com/GeneralKaos666/ghost-rain)** | Matrix rain wallpaper with a system HUD | Kotlin | ![stars](https://img.shields.io/github/stars/GeneralKaos666/ghost-rain?style=flat-square) |
-| 8 | **[termux-adb](https://github.com/GeneralKaos666/termux-adb)** | ADB and Fastboot on Termux, no root | Shell | ![stars](https://img.shields.io/github/stars/GeneralKaos666/termux-adb?style=flat-square) |
+| 8 | **[termux-adb](https://github.com/GeneralKaos666/termux-adb)** | ADB and Fastboot on Termux, no root · fork of [rianprei/termux-adb](https://github.com/rianprei/termux-adb) | Shell | ![stars](https://img.shields.io/github/stars/GeneralKaos666/termux-adb?style=flat-square) |
 
 ---
 
@@ -91,17 +89,17 @@ up since 2024 · 44 public repos · no releases yet
 - **[color-changer-termux](https://github.com/GeneralKaos666/color-changer-termux)** : color tools for Termux ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/color-changer-termux?style=flat-square&label=updated)
 - **[aerothemeplasma](https://github.com/GeneralKaos666/aerothemeplasma)** : KDE Plasma shell that recreates the Aero and Vista look ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/aerothemeplasma?style=flat-square&label=updated)
 <!-- WORKING_ON:END -->
-<sub>badges pull live, the list is hand-picked</sub>
+<sub>featured = hand-picked pins · working_on = recently touched · badges pull live</sub>
 
 ---
 
 ### `05 // STATS`
 
 <p align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended">
+  <a href="https://github.com/GeneralKaos666">
     <img src="https://github-stats-extended.vercel.app/api?username=GeneralKaos666&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&title_color=00FFFF&icon_color=BF00FF&text_color=c9d1d9&bg_color=0D1117" alt="GeneralKaos666's GitHub stats" width="48%" />
   </a>
-  <a href="https://github.com/stats-organization/github-stats-extended">
+  <a href="https://github.com/GeneralKaos666">
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=GeneralKaos666&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=00FFFF&text_color=c9d1d9&bg_color=0D1117" alt="Top Languages" width="48%" />
   </a>
 </p>
@@ -115,7 +113,8 @@ up since 2024 · 44 public repos · no releases yet
 ### `06 // CONTRIBUTIONS`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GeneralKaos666/GeneralKaos666/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/GeneralKaos666/GeneralKaos666/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution snake animation (dark)" width="100%" />
+  <img src="https://raw.githubusercontent.com/GeneralKaos666/GeneralKaos666/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution snake animation (light)" width="100%" />
 </p>
 
 <p align="center"><sub>Grid from <a href="https://github.com/Platane/snk">Platane/snk</a></sub></p>
