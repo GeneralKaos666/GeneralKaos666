@@ -8,6 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/GeneralKaos666?tab=followers"><img src="https://img.shields.io/github/followers/GeneralKaos666?color=00FFFF&label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=black" alt="GitHub followers" /></a>
+  <a href="https://generalkaos666.github.io/"><img src="https://img.shields.io/badge/WEBSITE-generalkaos666.github.io-00FFFF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website: generalkaos666.github.io" /></a>
   <img src="https://img.shields.io/badge/STATUS-BUILDING-39FF14?style=for-the-badge&logo=statuspage&logoColor=black" alt="Status: building" />
 </p>
 
