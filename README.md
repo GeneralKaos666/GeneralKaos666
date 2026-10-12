@@ -89,11 +89,11 @@ up since 2024 · 49 public repos
 ### `04 // CURRENTLY_WORKING_ON`
 
 <!-- WORKING_ON:START -->
-- **[termux-aerotheme-plasma](https://github.com/GeneralKaos666/termux-aerotheme-plasma)** : Windows 7 Aero recreated for KDE Plasma 6 on Android ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-aerotheme-plasma?style=flat-square&label=updated)
-- **[electron-for-termux](https://github.com/GeneralKaos666/electron-for-termux)** : Electron runtime for Termux ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/electron-for-termux?style=flat-square&label=updated)
-- **[pdx-bus-tracker](https://github.com/GeneralKaos666/pdx-bus-tracker)** : TriMet arrivals, rebuilt on Compose ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/pdx-bus-tracker?style=flat-square&label=updated)
-- **[font-changer-termux](https://github.com/GeneralKaos666/font-changer-termux)** : Font tools for Termux ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/font-changer-termux?style=flat-square&label=updated)
-- **[ghost-rain](https://github.com/GeneralKaos666/ghost-rain)** : Matrix rain wallpaper with a system HUD ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/ghost-rain?style=flat-square&label=updated)
+- **[flutter-for-termux](https://github.com/GeneralKaos666/flutter-for-termux)** : Run Flutter on Termux! (Flutter Channel Stable) · Shell ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/flutter-for-termux?style=flat-square&label=updated)
+- **[electron-for-termux](https://github.com/GeneralKaos666/electron-for-termux)** : Electron for Termux · Shell ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/electron-for-termux?style=flat-square&label=updated)
+- **[tur](https://github.com/GeneralKaos666/tur)** : A place for all types of Termux packages. · Shell ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/tur?style=flat-square&label=updated)
+- **[font-changer](https://github.com/GeneralKaos666/font-changer)** : Font changer for Termux with Nerd Fonts — change your terminal font with a friendly fullscreen picker · Go ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/font-changer?style=flat-square&label=updated)
+- **[cyberpunk-theme](https://github.com/GeneralKaos666/cyberpunk-theme)** : 🌃 Cyberpunk-inspired theme suite for Neovim, tmux, and ghostty with neon aesthetics · JavaScript ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/cyberpunk-theme?style=flat-square&label=updated)
 <!-- WORKING_ON:END -->
 <sub>featured = hand-picked pins · working_on = recently touched · badges pull live</sub>
 

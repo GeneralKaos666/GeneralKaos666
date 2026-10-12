@@ -1,0 +1,112 @@
+name: Update Currently Working On
+
+on:
+  schedule:
+    # Daily at 05:41 UTC. Off the hour, and clear of the snake (00:00) and
+    # repo-count (23 */6) crons so the three README writers never overlap.
+    - cron: "41 5 * * *"
+
+  workflow_dispatch:
+
+# Deliberately no push trigger: repo-count.yml also rewrites README.md, and
+# a shared push trigger would race the two into a non-fast-forward. The list
+# changes slowly and its badges pull live, so a daily refresh is enough.
+
+permissions:
+  contents: write
+
+concurrency:
+  group: working-on
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v7
+
+      # One page of 100 covers this account's public repos; --paginate stays
+      # correct if it grows. Sort is by most recently pushed.
+      - name: Fetch recently pushed repos
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          gh api "users/${{ github.repository_owner }}/repos?per_page=100&sort=pushed" \
+            --paginate > repos.json
+
+      # Rebuilds only the region between the WORKING_ON markers. The marker
+      # count guard fails the job (leaving README.md untouched) if either
+      # marker is missing or duplicated, so a bad edit can never clobber the
+      # wrong section.
+      - name: Regenerate the working-on block
+        env:
+          OWNER: ${{ github.repository_owner }}
+          TOP_N: "5"
+          REPOS_JSON: repos.json
+          README: README.md
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import json, os, re, sys
+
+          path = os.environ.get("README", "README.md")
+          top_n = int(os.environ.get("TOP_N", "5"))
+          owner = os.environ["OWNER"]
+
+          with open(os.environ["REPOS_JSON"], encoding="utf-8") as fh:
+              repos = json.load(fh)
+
+          profile = f"{owner}/{owner}"
+          repos = [r for r in repos if r.get("full_name") != profile and not r.get("archived")]
+          repos.sort(key=lambda r: r["pushed_at"], reverse=True)
+          repos = repos[:top_n]
+
+          lines = []
+          for r in repos:
+              name = r["name"]
+              url = r["html_url"]
+              desc = (r.get("description") or "")
+              desc = " ".join(desc.split())
+              if not desc:
+                  desc = "no description"
+              lang = r.get("language") or "Unknown"
+              badge = (
+                  f"https://img.shields.io/github/last-commit/{owner}/{name}"
+                  "?style=flat-square&label=updated"
+              )
+              lines.append(f"- **[{name}]({url})** : {desc} \u00b7 {lang} ![updated]({badge})")
+          block = "\n".join(lines)
+
+          start = "<!-- WORKING_ON:START -->"
+          end = "<!-- WORKING_ON:END -->"
+          text = open(path, encoding="utf-8").read()
+          if text.count(start) != 1 or text.count(end) != 1:
+              sys.exit(f"expected exactly one {start} and one {end} in {path}")
+
+          pattern = re.escape(start) + r".*?" + re.escape(end)
+          new, n = re.subn(pattern, start + "\n" + block + "\n" + end, text, flags=re.DOTALL)
+          if n != 1:
+              sys.exit("rewrite did not apply exactly once")
+          if new == text:
+              print("no change")
+          else:
+              open(path, "w", encoding="utf-8").write(new)
+              print(f"updated {len(repos)} entries")
+          PY
+
+      - name: Commit if changed
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- README.md; then
+            echo "working-on block already current, nothing to commit"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "docs: refresh currently-working-on list [skip ci]"
+          git push
