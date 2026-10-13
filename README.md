@@ -89,11 +89,11 @@ up since 2024 · 49 public repos
 ### `04 // CURRENTLY_WORKING_ON`
 
 <!-- WORKING_ON:START -->
-- **[flutter-for-termux](https://github.com/GeneralKaos666/flutter-for-termux)** : Run Flutter on Termux! (Flutter Channel Stable) · Shell ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/flutter-for-termux?style=flat-square&label=updated)
+- **[pdx-bus-tracker](https://github.com/GeneralKaos666/pdx-bus-tracker)** : portland's trimet tracking in a android app · Kotlin ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/pdx-bus-tracker?style=flat-square&label=updated)
+- **[termux-app](https://github.com/GeneralKaos666/termux-app)** : Termux - a terminal emulator application for Android OS extendible by variety of packages. · Java ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-app?style=flat-square&label=updated)
+- **[termux-packages](https://github.com/GeneralKaos666/termux-packages)** : A package build system for Termux. · Shell ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-packages?style=flat-square&label=updated)
 - **[electron-for-termux](https://github.com/GeneralKaos666/electron-for-termux)** : Electron for Termux · Shell ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/electron-for-termux?style=flat-square&label=updated)
-- **[tur](https://github.com/GeneralKaos666/tur)** : A place for all types of Termux packages. · Shell ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/tur?style=flat-square&label=updated)
-- **[font-changer](https://github.com/GeneralKaos666/font-changer)** : Font changer for Termux with Nerd Fonts — change your terminal font with a friendly fullscreen picker · Go ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/font-changer?style=flat-square&label=updated)
-- **[cyberpunk-theme](https://github.com/GeneralKaos666/cyberpunk-theme)** : 🌃 Cyberpunk-inspired theme suite for Neovim, tmux, and ghostty with neon aesthetics · JavaScript ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/cyberpunk-theme?style=flat-square&label=updated)
+- **[flutter-for-termux](https://github.com/GeneralKaos666/flutter-for-termux)** : Run Flutter on Termux! (Flutter Channel Stable) · Shell ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/flutter-for-termux?style=flat-square&label=updated)
 <!-- WORKING_ON:END -->
 <sub>featured = hand-picked pins · working_on = recently touched · badges pull live</sub>
 
