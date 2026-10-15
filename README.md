@@ -89,11 +89,11 @@ up since 2024 · 50 public repos
 ### `04 // CURRENTLY_WORKING_ON`
 
 <!-- WORKING_ON:START -->
-- **[electron-for-termux](https://github.com/GeneralKaos666/electron-for-termux)** : Electron for Termux · Shell ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/electron-for-termux?style=flat-square&label=updated)
 - **[flutter-for-termux](https://github.com/GeneralKaos666/flutter-for-termux)** : Run Flutter on Termux! (Flutter Channel Stable) · Shell ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/flutter-for-termux?style=flat-square&label=updated)
-- **[homebrew-termux](https://github.com/GeneralKaos666/homebrew-termux)** : Native Homebrew on Termux (Android) - no root, no proot, no emulation. Real glibc bridge + Bionic coexisting. · Shell ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/homebrew-termux?style=flat-square&label=updated)
-- **[termux-adb](https://github.com/GeneralKaos666/termux-adb)** : ADB & Fastboot no Termux sem root — 100% self-contained, wireless mode, doctor, SHA256 verify, auto-updater, config isolada · Shell ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-adb?style=flat-square&label=updated)
+- **[pdx-bus-tracker](https://github.com/GeneralKaos666/pdx-bus-tracker)** : portland's trimet tracking in a android app · Kotlin ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/pdx-bus-tracker?style=flat-square&label=updated)
+- **[flutter-for-termux-beta](https://github.com/GeneralKaos666/flutter-for-termux-beta)** : Run Flutter on Termux! (Flutter Channel Main) · Shell ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/flutter-for-termux-beta?style=flat-square&label=updated)
 - **[termux-app](https://github.com/GeneralKaos666/termux-app)** : Termux - a terminal emulator application for Android OS extendible by variety of packages. · Java ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-app?style=flat-square&label=updated)
+- **[electron-for-termux](https://github.com/GeneralKaos666/electron-for-termux)** : Electron for Termux · Shell ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/electron-for-termux?style=flat-square&label=updated)
 <!-- WORKING_ON:END -->
 <sub>featured = hand-picked pins · working_on = recently touched · badges pull live</sub>
 
