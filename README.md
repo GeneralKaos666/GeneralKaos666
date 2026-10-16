@@ -89,11 +89,11 @@ up since 2024 · 51 public repos
 ### `04 // CURRENTLY_WORKING_ON`
 
 <!-- WORKING_ON:START -->
-- **[flutter-for-termux](https://github.com/GeneralKaos666/flutter-for-termux)** : Run Flutter on Termux! (Flutter Channel Stable) · Shell ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/flutter-for-termux?style=flat-square&label=updated)
+- **[termux-app](https://github.com/GeneralKaos666/termux-app)** : Termux - a terminal emulator application for Android OS extendible by variety of packages. · Java ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-app?style=flat-square&label=updated)
+- **[flutter-for-termux](https://github.com/GeneralKaos666/flutter-for-termux)** : Run Flutter on Termux! (Flutter Channel Stable) · Python ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/flutter-for-termux?style=flat-square&label=updated)
+- **[shizuku-termux](https://github.com/GeneralKaos666/shizuku-termux)** : Termux CLI that installs and talks to official Shizuku/rish · Shell ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/shizuku-termux?style=flat-square&label=updated)
 - **[pdx-bus-tracker](https://github.com/GeneralKaos666/pdx-bus-tracker)** : portland's trimet tracking in a android app · Kotlin ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/pdx-bus-tracker?style=flat-square&label=updated)
 - **[flutter-for-termux-beta](https://github.com/GeneralKaos666/flutter-for-termux-beta)** : Run Flutter on Termux! (Flutter Channel Main) · Shell ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/flutter-for-termux-beta?style=flat-square&label=updated)
-- **[termux-app](https://github.com/GeneralKaos666/termux-app)** : Termux - a terminal emulator application for Android OS extendible by variety of packages. · Java ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-app?style=flat-square&label=updated)
-- **[electron-for-termux](https://github.com/GeneralKaos666/electron-for-termux)** : Electron for Termux · Shell ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/electron-for-termux?style=flat-square&label=updated)
 <!-- WORKING_ON:END -->
 <sub>featured = hand-picked pins · working_on = recently touched · badges pull live</sub>
 
