@@ -89,8 +89,8 @@ up since 2024 · 52 public repos
 ### `04 // CURRENTLY_WORKING_ON`
 
 <!-- WORKING_ON:START -->
-- **[termux-app](https://github.com/GeneralKaos666/termux-app)** : Termux - a terminal emulator application for Android OS extendible by variety of packages. · Java ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-app?style=flat-square&label=updated)
 - **[flutter-for-termux](https://github.com/GeneralKaos666/flutter-for-termux)** : Run Flutter on Termux! (Flutter Channel Stable) · Python ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/flutter-for-termux?style=flat-square&label=updated)
+- **[termux-app](https://github.com/GeneralKaos666/termux-app)** : Termux - a terminal emulator application for Android OS extendible by variety of packages. · Java ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-app?style=flat-square&label=updated)
 - **[quantum_ide](https://github.com/GeneralKaos666/quantum_ide)** : QuantumIDE — AI-powered mobile IDE for web dev on Android (Flutter). Code editor, terminal sandbox, Git, LSP, local AI, and in-app APK builds. · C++ ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/quantum_ide?style=flat-square&label=updated)
 - **[termux-aerotheme-plasma](https://github.com/GeneralKaos666/termux-aerotheme-plasma)** : AeroThemePlasma for Termux — a Windows 7 Aero recreation for KDE Plasma 6, running natively on Android. · QML ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-aerotheme-plasma?style=flat-square&label=updated)
 - **[shizuku-termux](https://github.com/GeneralKaos666/shizuku-termux)** : Termux CLI that installs and talks to official Shizuku/rish · Shell ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/shizuku-termux?style=flat-square&label=updated)
