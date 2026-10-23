@@ -89,11 +89,11 @@ up since 2024 · 53 public repos
 ### `04 // CURRENTLY_WORKING_ON`
 
 <!-- WORKING_ON:START -->
+- **[dotfiles](https://github.com/GeneralKaos666/dotfiles)** : no description · Lua ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/dotfiles?style=flat-square&label=updated)
 - **[termux-app](https://github.com/GeneralKaos666/termux-app)** : Termux - a terminal emulator application for Android OS extendible by variety of packages. · Java ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-app?style=flat-square&label=updated)
 - **[Muxly](https://github.com/GeneralKaos666/Muxly)** : Muxly is a Swiss Army knife for Termux customization, including fonts, themes, cursor styles, shortcuts, and rootfs management. · Ruby ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/Muxly?style=flat-square&label=updated)
 - **[shizuku-termux](https://github.com/GeneralKaos666/shizuku-termux)** : Termux CLI that installs and talks to official Shizuku/rish · Shell ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/shizuku-termux?style=flat-square&label=updated)
 - **[flutter-for-termux](https://github.com/GeneralKaos666/flutter-for-termux)** : Run Flutter on Termux! (Flutter Channel Stable) · Python ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/flutter-for-termux?style=flat-square&label=updated)
-- **[quantum_ide](https://github.com/GeneralKaos666/quantum_ide)** : QuantumIDE — AI-powered mobile IDE for web dev on Android (Flutter). Code editor, terminal sandbox, Git, LSP, local AI, and in-app APK builds. · C++ ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/quantum_ide?style=flat-square&label=updated)
 <!-- WORKING_ON:END -->
 <sub>featured = hand-picked pins · working_on = recently touched · badges pull live</sub>
 
