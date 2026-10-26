@@ -89,11 +89,11 @@ up since 2024 · 55 public repos
 ### `04 // CURRENTLY_WORKING_ON`
 
 <!-- WORKING_ON:START -->
-- **[color-changer-termux](https://github.com/GeneralKaos666/color-changer-termux)** : no description · Rust ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/color-changer-termux?style=flat-square&label=updated)
 - **[flutter-for-termux](https://github.com/GeneralKaos666/flutter-for-termux)** : Run Flutter on Termux! (Flutter Channel Stable) · Python ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/flutter-for-termux?style=flat-square&label=updated)
-- **[opencode-android](https://github.com/GeneralKaos666/opencode-android)** : Native OpenCode v2 builds for Termux — installs as opencode2, updates via pkg · Shell ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/opencode-android?style=flat-square&label=updated)
-- **[termux-app](https://github.com/GeneralKaos666/termux-app)** : Termux - a terminal emulator application for Android OS extendible by variety of packages. · Java ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-app?style=flat-square&label=updated)
+- **[termux-apt-repo](https://github.com/GeneralKaos666/termux-apt-repo)** : no description · Python ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-apt-repo?style=flat-square&label=updated)
+- **[termux-settings](https://github.com/GeneralKaos666/termux-settings)** : no description · Rust ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-settings?style=flat-square&label=updated)
 - **[ndot-matrix-nerd](https://github.com/GeneralKaos666/ndot-matrix-nerd)** : no description · Python ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/ndot-matrix-nerd?style=flat-square&label=updated)
+- **[termux-app](https://github.com/GeneralKaos666/termux-app)** : Termux - a terminal emulator application for Android OS extendible by variety of packages. · Java ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-app?style=flat-square&label=updated)
 <!-- WORKING_ON:END -->
 <sub>featured = hand-picked pins · working_on = recently touched · badges pull live</sub>
 
