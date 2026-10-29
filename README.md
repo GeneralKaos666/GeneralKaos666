@@ -89,11 +89,11 @@ up since 2024 · 56 public repos
 ### `04 // CURRENTLY_WORKING_ON`
 
 <!-- WORKING_ON:START -->
-- **[termux-apt-repo](https://github.com/GeneralKaos666/termux-apt-repo)** : no description · Python ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-apt-repo?style=flat-square&label=updated)
-- **[termux-app](https://github.com/GeneralKaos666/termux-app)** : Termux - a terminal emulator application for Android OS extendible by variety of packages. · Java ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-app?style=flat-square&label=updated)
+- **[silkcircuit](https://github.com/GeneralKaos666/silkcircuit)** : ⚡💜 Electric meets elegant. A vibrant cyberpunk color system for Neovim, VS Code, Chrome, terminals, and 20+ tools. · Lua ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/silkcircuit?style=flat-square&label=updated)
+- **[flutter-for-termux-beta](https://github.com/GeneralKaos666/flutter-for-termux-beta)** : Run Flutter on Termux! (Flutter Channel Main) · Shell ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/flutter-for-termux-beta?style=flat-square&label=updated)
+- **[linuxthemestore](https://github.com/GeneralKaos666/linuxthemestore)** : no description · Rust ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/linuxthemestore?style=flat-square&label=updated)
+- **[loaf-fm](https://github.com/GeneralKaos666/loaf-fm)** : A beautiful and fast rust-based material 3e file manager for linux. · Unknown ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/loaf-fm?style=flat-square&label=updated)
 - **[flutter-for-termux](https://github.com/GeneralKaos666/flutter-for-termux)** : Run Flutter on Termux! (Flutter Channel Stable) · Python ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/flutter-for-termux?style=flat-square&label=updated)
-- **[opencode-android](https://github.com/GeneralKaos666/opencode-android)** : Native OpenCode v2 builds for Termux — installs as opencode2, updates via pkg · Shell ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/opencode-android?style=flat-square&label=updated)
-- **[nvim-config](https://github.com/GeneralKaos666/nvim-config)** : My neovim configs · Lua ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/nvim-config?style=flat-square&label=updated)
 <!-- WORKING_ON:END -->
 <sub>featured = hand-picked pins · working_on = recently touched · badges pull live</sub>
 
