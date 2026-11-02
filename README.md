@@ -90,10 +90,10 @@ up since 2024 · 58 public repos
 
 <!-- WORKING_ON:START -->
 - **[dotfiles](https://github.com/GeneralKaos666/dotfiles)** : no description · Lua ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/dotfiles?style=flat-square&label=updated)
+- **[zed-android-port](https://github.com/GeneralKaos666/zed-android-port)** : Native Android port of the Zed code editor, gpui rendering through Vulkan, integrated Termux for LSPs and tooling, remote SSH support. Runs as an APK on tablets and Android desktop modes. · Rust ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/zed-android-port?style=flat-square&label=updated)
+- **[termux-pkg-catalog](https://github.com/GeneralKaos666/termux-pkg-catalog)** : Interactive catalog of Termux and Python packages with AutoSync and a confirmed Package Runner · Python ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-pkg-catalog?style=flat-square&label=updated)
 - **[termux-apt-repo](https://github.com/GeneralKaos666/termux-apt-repo)** : no description · Python ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-apt-repo?style=flat-square&label=updated)
 - **[termux-settings](https://github.com/GeneralKaos666/termux-settings)** : no description · Rust ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-settings?style=flat-square&label=updated)
-- **[opencode-android](https://github.com/GeneralKaos666/opencode-android)** : Native OpenCode v2 builds for Termux — installs as opencode2, updates via pkg · Shell ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/opencode-android?style=flat-square&label=updated)
-- **[loaf-fm](https://github.com/GeneralKaos666/loaf-fm)** : A beautiful and fast rust-based material 3e file manager for linux. · QML ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/loaf-fm?style=flat-square&label=updated)
 <!-- WORKING_ON:END -->
 <sub>featured = hand-picked pins · working_on = recently touched · badges pull live</sub>
 
