@@ -89,11 +89,11 @@ up since 2024 · 58 public repos
 ### `04 // CURRENTLY_WORKING_ON`
 
 <!-- WORKING_ON:START -->
+- **[ndot-matrix-nerd](https://github.com/GeneralKaos666/ndot-matrix-nerd)** : no description · Python ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/ndot-matrix-nerd?style=flat-square&label=updated)
+- **[termux-app](https://github.com/GeneralKaos666/termux-app)** : Termux - a terminal emulator application for Android OS extendible by variety of packages. · Java ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-app?style=flat-square&label=updated)
 - **[dotfiles](https://github.com/GeneralKaos666/dotfiles)** : no description · Lua ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/dotfiles?style=flat-square&label=updated)
 - **[zed-android-port](https://github.com/GeneralKaos666/zed-android-port)** : Native Android port of the Zed code editor, gpui rendering through Vulkan, integrated Termux for LSPs and tooling, remote SSH support. Runs as an APK on tablets and Android desktop modes. · Rust ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/zed-android-port?style=flat-square&label=updated)
 - **[termux-pkg-catalog](https://github.com/GeneralKaos666/termux-pkg-catalog)** : Interactive catalog of Termux and Python packages with AutoSync and a confirmed Package Runner · Python ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-pkg-catalog?style=flat-square&label=updated)
-- **[termux-apt-repo](https://github.com/GeneralKaos666/termux-apt-repo)** : no description · Python ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-apt-repo?style=flat-square&label=updated)
-- **[termux-settings](https://github.com/GeneralKaos666/termux-settings)** : no description · Rust ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-settings?style=flat-square&label=updated)
 <!-- WORKING_ON:END -->
 <sub>featured = hand-picked pins · working_on = recently touched · badges pull live</sub>
 
