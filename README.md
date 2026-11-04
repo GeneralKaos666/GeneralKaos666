@@ -89,11 +89,11 @@ up since 2024 · 59 public repos
 ### `04 // CURRENTLY_WORKING_ON`
 
 <!-- WORKING_ON:START -->
-- **[ndot-matrix-nerd](https://github.com/GeneralKaos666/ndot-matrix-nerd)** : no description · Python ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/ndot-matrix-nerd?style=flat-square&label=updated)
-- **[termux-app](https://github.com/GeneralKaos666/termux-app)** : Termux - a terminal emulator application for Android OS extendible by variety of packages. · Java ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-app?style=flat-square&label=updated)
-- **[dotfiles](https://github.com/GeneralKaos666/dotfiles)** : no description · Lua ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/dotfiles?style=flat-square&label=updated)
-- **[zed-android-port](https://github.com/GeneralKaos666/zed-android-port)** : Native Android port of the Zed code editor, gpui rendering through Vulkan, integrated Termux for LSPs and tooling, remote SSH support. Runs as an APK on tablets and Android desktop modes. · Rust ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/zed-android-port?style=flat-square&label=updated)
-- **[termux-pkg-catalog](https://github.com/GeneralKaos666/termux-pkg-catalog)** : Interactive catalog of Termux and Python packages with AutoSync and a confirmed Package Runner · Python ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-pkg-catalog?style=flat-square&label=updated)
+- **[ghostty-designer-termux](https://github.com/GeneralKaos666/ghostty-designer-termux)** : Live-preview Ghostty terminal configuration for theme, fonts and UI. · TypeScript ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/ghostty-designer-termux?style=flat-square&label=updated)
+- **[termux-packages](https://github.com/GeneralKaos666/termux-packages)** : A package build system for Termux. · Shell ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-packages?style=flat-square&label=updated)
+- **[tauri-termux](https://github.com/GeneralKaos666/tauri-termux)** : Build smaller, faster, and more secure desktop and mobile applications with a web frontend. · Unknown ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/tauri-termux?style=flat-square&label=updated)
+- **[wry-termux](https://github.com/GeneralKaos666/wry-termux)** : Cross-platform WebView library in Rust for Tauri. · Unknown ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/wry-termux?style=flat-square&label=updated)
+- **[tao-termux](https://github.com/GeneralKaos666/tao-termux)** : The TAO of cross-platform windowing. A library in Rust built for Tauri. · Unknown ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/tao-termux?style=flat-square&label=updated)
 <!-- WORKING_ON:END -->
 <sub>featured = hand-picked pins · working_on = recently touched · badges pull live</sub>
 
