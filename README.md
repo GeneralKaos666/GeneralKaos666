@@ -89,11 +89,11 @@ up since 2024 · 63 public repos
 ### `04 // CURRENTLY_WORKING_ON`
 
 <!-- WORKING_ON:START -->
-- **[ghostty-designer-termux](https://github.com/GeneralKaos666/ghostty-designer-termux)** : Live-preview Ghostty terminal configuration for theme, fonts and UI. · TypeScript ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/ghostty-designer-termux?style=flat-square&label=updated)
+- **[flutter-for-termux](https://github.com/GeneralKaos666/flutter-for-termux)** : Run Flutter on Termux! (Flutter Channel Stable) · Python ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/flutter-for-termux?style=flat-square&label=updated)
+- **[OmniRoute](https://github.com/GeneralKaos666/OmniRoute)** : Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA. · TypeScript ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/OmniRoute?style=flat-square&label=updated)
+- **[corvene](https://github.com/GeneralKaos666/corvene)** : Native GitHub Desktop clone in Rust (GPUI + gitoxide) · Rust ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/corvene?style=flat-square&label=updated)
 - **[termux-packages](https://github.com/GeneralKaos666/termux-packages)** : A package build system for Termux. · Shell ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-packages?style=flat-square&label=updated)
-- **[tauri-termux](https://github.com/GeneralKaos666/tauri-termux)** : Build smaller, faster, and more secure desktop and mobile applications with a web frontend. · Unknown ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/tauri-termux?style=flat-square&label=updated)
-- **[wry-termux](https://github.com/GeneralKaos666/wry-termux)** : Cross-platform WebView library in Rust for Tauri. · Unknown ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/wry-termux?style=flat-square&label=updated)
-- **[tao-termux](https://github.com/GeneralKaos666/tao-termux)** : The TAO of cross-platform windowing. A library in Rust built for Tauri. · Unknown ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/tao-termux?style=flat-square&label=updated)
+- **[ghostty-designer-termux](https://github.com/GeneralKaos666/ghostty-designer-termux)** : Live-preview Ghostty terminal configuration for theme, fonts and UI. · TypeScript ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/ghostty-designer-termux?style=flat-square&label=updated)
 <!-- WORKING_ON:END -->
 <sub>featured = hand-picked pins · working_on = recently touched · badges pull live</sub>
 
