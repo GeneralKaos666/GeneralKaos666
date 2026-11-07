@@ -89,11 +89,11 @@ up since 2024 · 64 public repos
 ### `04 // CURRENTLY_WORKING_ON`
 
 <!-- WORKING_ON:START -->
-- **[termux-app](https://github.com/GeneralKaos666/termux-app)** : Termux - a terminal emulator application for Android OS extendible by variety of packages. · Java ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-app?style=flat-square&label=updated)
-- **[flea](https://github.com/GeneralKaos666/flea)** : The fastest GUI file manager on Omarchy. · Rust ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/flea?style=flat-square&label=updated)
-- **[flutter-for-termux-beta](https://github.com/GeneralKaos666/flutter-for-termux-beta)** : Run Flutter on Termux! (Flutter Channel Main) · Shell ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/flutter-for-termux-beta?style=flat-square&label=updated)
-- **[flutter-for-termux](https://github.com/GeneralKaos666/flutter-for-termux)** : Run Flutter on Termux! (Flutter Channel Stable) · Python ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/flutter-for-termux?style=flat-square&label=updated)
+- **[termux-apt-repo](https://github.com/GeneralKaos666/termux-apt-repo)** : no description · Python ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-apt-repo?style=flat-square&label=updated)
+- **[opencode-android](https://github.com/GeneralKaos666/opencode-android)** : Native OpenCode v2 builds for Termux — installs as opencode2, updates via pkg · Shell ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/opencode-android?style=flat-square&label=updated)
 - **[OmniRoute](https://github.com/GeneralKaos666/OmniRoute)** : Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA. · TypeScript ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/OmniRoute?style=flat-square&label=updated)
+- **[nvim-config](https://github.com/GeneralKaos666/nvim-config)** : My neovim configs · Lua ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/nvim-config?style=flat-square&label=updated)
+- **[termux-app](https://github.com/GeneralKaos666/termux-app)** : Termux - a terminal emulator application for Android OS extendible by variety of packages. · Java ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-app?style=flat-square&label=updated)
 <!-- WORKING_ON:END -->
 <sub>featured = hand-picked pins · working_on = recently touched · badges pull live</sub>
 
