@@ -1,3 +1,6 @@
+![GeneralKaos666's GitHub Banner](https://raw.githubusercontent.com/GeneralKaos666/GeneralKaos666/main/banner.png)
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6A00FF,100:00FFFF&height=210&section=header&text=GeneralKaos666&fontSize=68&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=Android%20%C2%B7%20Kotlin%20%C2%B7%20Compose%20%C2%B7%20Plasma&descAlignY=62&descSize=18" alt="GeneralKaos666" width="100%" />
 </p>
