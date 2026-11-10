@@ -1,4 +1,4 @@
-![GeneralKaos666's GitHub Banner](https://raw.githubusercontent.com/GeneralKaos666/GeneralKaos666/main/banner.png)
+![GeneralKaos666's GitHub Banner](https://raw.githubusercontent.com/GeneralKaos666/GeneralKaos666/main/GeneralKaos666-readme-banner.png)
 
 
 <p align="center">
