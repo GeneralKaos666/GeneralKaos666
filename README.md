@@ -92,11 +92,11 @@ up since 2024 · 64 public repos
 ### `04 // CURRENTLY_WORKING_ON`
 
 <!-- WORKING_ON:START -->
-- **[loaf-fm](https://github.com/GeneralKaos666/loaf-fm)** : A beautiful and fast rust-based material 3e file manager for linux. · QML ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/loaf-fm?style=flat-square&label=updated)
+- **[termux-settings](https://github.com/GeneralKaos666/termux-settings)** : no description · Rust ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-settings?style=flat-square&label=updated)
 - **[termux-apt-repo](https://github.com/GeneralKaos666/termux-apt-repo)** : no description · Python ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-apt-repo?style=flat-square&label=updated)
 - **[opencode-android](https://github.com/GeneralKaos666/opencode-android)** : Native OpenCode v2 builds for Termux — installs as opencode2, updates via pkg · Shell ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/opencode-android?style=flat-square&label=updated)
-- **[OmniRoute](https://github.com/GeneralKaos666/OmniRoute)** : Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA. · TypeScript ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/OmniRoute?style=flat-square&label=updated)
-- **[nvim-config](https://github.com/GeneralKaos666/nvim-config)** : My neovim configs · Lua ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/nvim-config?style=flat-square&label=updated)
+- **[octocanvas](https://github.com/GeneralKaos666/octocanvas)** : A web app that creates GitHub-themed collectibles from GitHub profiles · Unknown ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/octocanvas?style=flat-square&label=updated)
+- **[loaf-fm](https://github.com/GeneralKaos666/loaf-fm)** : A beautiful and fast rust-based material 3e file manager for linux. · QML ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/loaf-fm?style=flat-square&label=updated)
 <!-- WORKING_ON:END -->
 <sub>featured = hand-picked pins · working_on = recently touched · badges pull live</sub>
 
