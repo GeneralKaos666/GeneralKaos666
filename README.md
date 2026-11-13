@@ -15,6 +15,15 @@
   <img src="https://img.shields.io/badge/STATUS-BUILDING-39FF14?style=for-the-badge&logo=statuspage&logoColor=black" alt="Status: building" />
 </p>
 
+<div align="center">
+  <table>
+    <tr>
+      <td valign="middle"><img src="https://raw.githubusercontent.com/GeneralKaos666/GeneralKaos666/main/devemon-badge-GeneralKaos666.png" alt="GeneralKaos666 devemon badge: repos, followers, stars, top languages" width="520" /></td>
+      <td valign="middle"><img src="https://raw.githubusercontent.com/GeneralKaos666/GeneralKaos666/main/devemon-card-GeneralKaos666.png" alt="GeneralKaos666 devemon card: repositories, followers, stars, forks, contributions" width="330" /></td>
+    </tr>
+  </table>
+</div>
+
 > Android apps in Kotlin and Compose. KDE Plasma themes in QML. Built on Termux, no root.
 
 ---
@@ -43,7 +52,6 @@ up since 2024 · 65 public repos
 ### `02 // TECH_STACK`
 
 #### `// ANDROID_MOBILE`
-![Kotlin](https://img.shields.io/badge/Kotlin-BF00FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-00FFFF?style=for-the-badge&logo=jetpackcompose&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-39FF14?style=for-the-badge&logo=flutter&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-00FFFF?style=for-the-badge&logo=dart&logoColor=black)
