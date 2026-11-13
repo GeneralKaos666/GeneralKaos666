@@ -1,10 +1,5 @@
 ![GeneralKaos666's GitHub Banner](https://raw.githubusercontent.com/GeneralKaos666/GeneralKaos666/main/GeneralKaos666-readme-banner.png)
 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:FF2E97&height=210&section=header&text=GeneralKaos666&fontSize=68&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=Android%20%C2%B7%20Kotlin%20%C2%B7%20Compose%20%C2%B7%20Plasma&descAlignY=62&descSize=18" alt="GeneralKaos666" width="100%" />
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=B026FF&center=true&vcenter=true&width=600&lines=Android+%26+Mobile+App+Developer;KDE+Plasma+Desktop+Themer;Terminal+%26+Shell+Enthusiast;Git+%26+Open+Source+Builder" alt="Android & Mobile App Developer, KDE Plasma Desktop Themer, Terminal & Shell Enthusiast, Git & Open Source Builder" />
 </p>
@@ -14,15 +9,6 @@
   <a href="https://generalkaos666.github.io/"><img src="https://img.shields.io/badge/WEBSITE-generalkaos666.github.io-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website: generalkaos666.github.io" /></a>
   <img src="https://img.shields.io/badge/STATUS-BUILDING-FF2E97?style=for-the-badge&logo=statuspage&logoColor=black" alt="Status: building" />
 </p>
-
-<div align="center">
-  <table>
-    <tr>
-      <td valign="middle"><img src="https://raw.githubusercontent.com/GeneralKaos666/GeneralKaos666/main/devemon-badge-GeneralKaos666.png" alt="GeneralKaos666 devemon badge: repos, followers, stars, top languages" width="520" /></td>
-      <td valign="middle"><img src="https://raw.githubusercontent.com/GeneralKaos666/GeneralKaos666/main/devemon-card-GeneralKaos666.png" alt="GeneralKaos666 devemon card: repositories, followers, stars, forks, contributions" width="330" /></td>
-    </tr>
-  </table>
-</div>
 
 > Android apps in Kotlin and Compose. KDE Plasma themes in QML. Built on Termux, no root.
 
