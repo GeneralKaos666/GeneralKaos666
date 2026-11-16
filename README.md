@@ -87,10 +87,10 @@ up since 2024 · 66 public repos
 
 <!-- WORKING_ON:START -->
 - **[termux-app](https://github.com/GeneralKaos666/termux-app)** : Termux - a terminal emulator application for Android OS extendible by variety of packages. · Java ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-app?style=flat-square&label=updated)
-- **[flutter-for-termux](https://github.com/GeneralKaos666/flutter-for-termux)** : Run Flutter on Termux! (Flutter Channel Stable) · Python ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/flutter-for-termux?style=flat-square&label=updated)
+- **[expressive-profile](https://github.com/GeneralKaos666/expressive-profile)** : Material 3 Expressive profile README generator for GitHub with daily auto-updates · JavaScript ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/expressive-profile?style=flat-square&label=updated)
 - **[termux-apt-repo](https://github.com/GeneralKaos666/termux-apt-repo)** : no description · Python ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-apt-repo?style=flat-square&label=updated)
+- **[flutter-for-termux](https://github.com/GeneralKaos666/flutter-for-termux)** : Run Flutter on Termux! (Flutter Channel Stable) · Python ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/flutter-for-termux?style=flat-square&label=updated)
 - **[opencode-android](https://github.com/GeneralKaos666/opencode-android)** : Native OpenCode v2 builds for Termux — installs as opencode2, updates via pkg · Shell ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/opencode-android?style=flat-square&label=updated)
-- **[flutter-for-termux-beta](https://github.com/GeneralKaos666/flutter-for-termux-beta)** : Run Flutter on Termux! (Flutter Channel Main) · Shell ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/flutter-for-termux-beta?style=flat-square&label=updated)
 <!-- WORKING_ON:END -->
 <sub>featured = hand-picked pins · working_on = recently touched · badges pull live</sub>
 
