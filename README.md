@@ -86,8 +86,8 @@ up since 2024 · 67 public repos
 ### `04 // CURRENTLY_WORKING_ON`
 
 <!-- WORKING_ON:START -->
-- **[termux-apt-repo](https://github.com/GeneralKaos666/termux-apt-repo)** : My personal apt repo for termux · Python ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-apt-repo?style=flat-square&label=updated)
 - **[termux-app](https://github.com/GeneralKaos666/termux-app)** : Termux - a terminal emulator application for Android OS extendible by variety of packages. · Java ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-app?style=flat-square&label=updated)
+- **[termux-apt-repo](https://github.com/GeneralKaos666/termux-apt-repo)** : My personal apt repo for termux · Python ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-apt-repo?style=flat-square&label=updated)
 - **[termux-settings](https://github.com/GeneralKaos666/termux-settings)** : no description · Rust ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-settings?style=flat-square&label=updated)
 - **[octocanvas](https://github.com/GeneralKaos666/octocanvas)** : A web app that creates GitHub-themed collectibles from GitHub profiles · TypeScript ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/octocanvas?style=flat-square&label=updated)
 - **[opencode-android](https://github.com/GeneralKaos666/opencode-android)** : Native OpenCode v2 builds for Termux — installs as opencode2, updates via pkg · Shell ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/opencode-android?style=flat-square&label=updated)
