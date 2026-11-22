@@ -86,11 +86,11 @@ up since 2024 · 70 public repos
 ### `04 // CURRENTLY_WORKING_ON`
 
 <!-- WORKING_ON:START -->
+- **[termux-sync](https://github.com/GeneralKaos666/termux-sync)** : OpenSource Backup and restore your entire Termux environment across devices. · Python ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-sync?style=flat-square&label=updated)
 - **[ghostty-config](https://github.com/GeneralKaos666/ghostty-config)** : TUI for Ghostty terminal customization · Unknown ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/ghostty-config?style=flat-square&label=updated)
+- **[kwi](https://github.com/GeneralKaos666/kwi)** : Modern and fast terminal for KDE Plasma and other desktops · Unknown ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/kwi?style=flat-square&label=updated)
 - **[flutter-for-termux-beta](https://github.com/GeneralKaos666/flutter-for-termux-beta)** : Run Flutter on Termux! (Flutter Channel Main) · Shell ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/flutter-for-termux-beta?style=flat-square&label=updated)
 - **[termux-apt-repo](https://github.com/GeneralKaos666/termux-apt-repo)** : My personal apt repo for termux · Python ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-apt-repo?style=flat-square&label=updated)
-- **[flutter-for-termux](https://github.com/GeneralKaos666/flutter-for-termux)** : Run Flutter on Termux! (Flutter Channel Stable) · Python ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/flutter-for-termux?style=flat-square&label=updated)
-- **[termux-app](https://github.com/GeneralKaos666/termux-app)** : Termux - a terminal emulator application for Android OS extendible by variety of packages. · Java ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-app?style=flat-square&label=updated)
 <!-- WORKING_ON:END -->
 <sub>featured = hand-picked pins · working_on = recently touched · badges pull live</sub>
 
