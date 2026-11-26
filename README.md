@@ -86,11 +86,11 @@ up since 2024 · 70 public repos
 ### `04 // CURRENTLY_WORKING_ON`
 
 <!-- WORKING_ON:START -->
-- **[termux-sync](https://github.com/GeneralKaos666/termux-sync)** : OpenSource Backup and restore your entire Termux environment across devices. · Python ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-sync?style=flat-square&label=updated)
-- **[flutter-for-termux-beta](https://github.com/GeneralKaos666/flutter-for-termux-beta)** : Run Flutter on Termux! (Flutter Channel Main) · Python ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/flutter-for-termux-beta?style=flat-square&label=updated)
-- **[termux-settings](https://github.com/GeneralKaos666/termux-settings)** : no description · Rust ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-settings?style=flat-square&label=updated)
 - **[termux-apt-repo](https://github.com/GeneralKaos666/termux-apt-repo)** : My personal apt repo for termux · Python ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-apt-repo?style=flat-square&label=updated)
 - **[opencode-android](https://github.com/GeneralKaos666/opencode-android)** : Native OpenCode v2 builds for Termux — installs as opencode2, updates via pkg · Shell ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/opencode-android?style=flat-square&label=updated)
+- **[octocanvas](https://github.com/GeneralKaos666/octocanvas)** : A web app that creates GitHub-themed collectibles from GitHub profiles · TypeScript ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/octocanvas?style=flat-square&label=updated)
+- **[termux-sync](https://github.com/GeneralKaos666/termux-sync)** : OpenSource Backup and restore your entire Termux environment across devices. · Python ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-sync?style=flat-square&label=updated)
+- **[flutter-for-termux-beta](https://github.com/GeneralKaos666/flutter-for-termux-beta)** : Run Flutter on Termux! (Flutter Channel Main) · Python ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/flutter-for-termux-beta?style=flat-square&label=updated)
 <!-- WORKING_ON:END -->
 <sub>featured = hand-picked pins · working_on = recently touched · badges pull live</sub>
 
