@@ -86,10 +86,10 @@ up since 2024 · 71 public repos
 ### `04 // CURRENTLY_WORKING_ON`
 
 <!-- WORKING_ON:START -->
-- **[termux-apt-repo](https://github.com/GeneralKaos666/termux-apt-repo)** : My personal apt repo for termux · Python ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-apt-repo?style=flat-square&label=updated)
+- **[pdx-bus-tracker](https://github.com/GeneralKaos666/pdx-bus-tracker)** : portland's trimet tracking in a android app · Kotlin ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/pdx-bus-tracker?style=flat-square&label=updated)
 - **[flutter-for-termux-beta](https://github.com/GeneralKaos666/flutter-for-termux-beta)** : Run Flutter on Termux! (Flutter Channel Main) · Python ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/flutter-for-termux-beta?style=flat-square&label=updated)
 - **[termux-sync-rust](https://github.com/GeneralKaos666/termux-sync-rust)** : no description · Rust ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-sync-rust?style=flat-square&label=updated)
-- **[pdx-bus-tracker](https://github.com/GeneralKaos666/pdx-bus-tracker)** : portland's trimet tracking in a android app · Kotlin ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/pdx-bus-tracker?style=flat-square&label=updated)
+- **[termux-apt-repo](https://github.com/GeneralKaos666/termux-apt-repo)** : My personal apt repo for termux · Python ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/termux-apt-repo?style=flat-square&label=updated)
 - **[opencode-android](https://github.com/GeneralKaos666/opencode-android)** : Native OpenCode v2 builds for Termux — installs as opencode2, updates via pkg · Shell ![updated](https://img.shields.io/github/last-commit/GeneralKaos666/opencode-android?style=flat-square&label=updated)
 <!-- WORKING_ON:END -->
 <sub>featured = hand-picked pins · working_on = recently touched · badges pull live</sub>
